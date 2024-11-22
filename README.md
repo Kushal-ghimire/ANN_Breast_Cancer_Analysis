@@ -13,7 +13,14 @@ This project involves data preprocessing, feature selection, ANN model building,
 - Run streamlit app
   **streamlit run streamlit.py*
 
+## Requirements
 
+- Python 3.x
+- Streamlit
+- scikit-learn
+- pandas
+- joblib
+  
 ## Usage
 
 - Run the Streamlit app locally: ( streamlit run streamlit.py
@@ -42,12 +49,7 @@ This project involves data preprocessing, feature selection, ANN model building,
 - `breast_cancer_data.csv`: Preprocessed dataset.
 - `README.md`: Documentation of the project.
 
-## Requirements
-
-- Python 3.x
-- Streamlit
-- scikit-learn
-- pandas
-- joblib
+## Output
+![Output](https://github.com/user-attachments/assets/08125357-2fcb-4add-b16d-1dd9d993440e)
 
 
