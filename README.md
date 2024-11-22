@@ -24,8 +24,7 @@ This project involves data preprocessing, feature selection, ANN model building,
 
 - `data_preparation.py`: Script for loading and preparing the dataset.
 - `feature_selection.py`: Script for feature selection.
-- `grid_search.py`: Script for tuning ANN model hyperparameters using Grid Search.
-- `ann_model.py`: Script for creating and training the ANN model.
+- `model_selection.py`: Script for tuning ANN model hyperparameters using Grid Search,Script for creating and training the ANN model
 - `app.py`: Streamlit app for user interaction and predictions.
 - `breast_cancer_data.csv`: Preprocessed dataset.
 - `README.md`: Documentation of the project.
