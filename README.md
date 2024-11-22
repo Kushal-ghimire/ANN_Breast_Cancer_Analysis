@@ -4,7 +4,7 @@ This project involves data preprocessing, feature selection, ANN model building,
 
 ## Setup
 
-- Create venv
+- Create virtual Environment venv 
   **python -m venv Name*
 - Activate environment
   **source Name/Scripts/activate*
