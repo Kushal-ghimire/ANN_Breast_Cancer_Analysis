@@ -18,6 +18,15 @@ This project involves data preprocessing, feature selection, ANN model building,
 
 - Run the Streamlit app locally: ( streamlit run streamlit.py
 
+## Dataset
+
+- The dataset is the Breast Cancer dataset provided by scikit-learn, containing the following:
+
+**30 features** such as mean radius, texture, perimeter, area, etc.*
+- 2 target classes:
+   - 0: Malignant (cancerous)
+   - 1: Benign (non-cancerous)
+
 ## Features
 
 - **Data Preprocessing and Feature Selection:** The project includes loading the breast cancer dataset, handling missing values, and selecting the most relevant features using `SelectKBest`.
