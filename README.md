@@ -4,10 +4,14 @@ This project involves data preprocessing, feature selection, ANN model building,
 
 ## Setup
 
-- Clone the repository. (git clone <repository_link>)
-- Create a virtual environment and install required packages.(On Windows use venv\Scripts\activate)
-- python -m venv venv
-- pip install -r requirements.txt
+- Create venv
+  **python -m venv Name*
+- Activate environment
+  **source Name/Scripts/activate*
+- Install requirements.txt
+  **pip install -r requirements.txt*
+- Run streamlit app
+  **streamlit run streamlit.py*
 
 
 ## Usage
